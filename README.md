@@ -3,4 +3,4 @@ DevOps
 Python
 SysAdmin
 Scripting
-CI/CD
+CI/CD.
